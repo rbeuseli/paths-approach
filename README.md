@@ -16,5 +16,5 @@ taus.cpp is an example program to calculate the closest approach of a helix and
 a straight line.
 
 example.C is a ROOT macro to draw the result in a 3D view.
-taus.C is a helper macro for example.C which needs to compiled by ROOT due to
+taus.C is a helper macro for example.C which needs to be compiled by ROOT due to
 limitions of the Cling interpreter.
